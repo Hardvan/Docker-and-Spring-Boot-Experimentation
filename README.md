@@ -1,4 +1,4 @@
-# Docker Spring Boot Experimentation
+# Docker & Spring Boot Experimentation
 
 This project demonstrates a simple Spring Boot application containerized with Docker. It serves a "Hello World" message
 in the `"/"` route, and a JSON list of items in the `"/items"` route.
